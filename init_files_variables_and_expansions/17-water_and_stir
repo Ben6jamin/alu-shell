@@ -1,2 +1,2 @@
 #!/bin/bash
-printf “%o” 44834284 → echo $((8#$bestchol))
+printf “%o” 44834284
